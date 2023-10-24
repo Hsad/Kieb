@@ -43,48 +43,48 @@
 )
 
 (deflayer isrt-ro 
-  @qwe _    _    c    l    m    _    _    _    f    u    k    _    _    
-  y    i    s    r    t    g    _    _    p    n    e    a    o    x 
+  @qwe _    _    c    l    m    _    _    _    f    u    k    _    _
+  y    i    s    r    t    g    _    _    p    n    e    a    o    x
   _    _    j    w    d    v    _    _    b    h    z    q    _
   _    _    _    _    _    _    _    _    _    _    _    _    
   _    _    @num           spc            bspc @ch  _    
 )
 
 (deflayer anishtro
-  @qwe _    _    l    u    j    _    _    _    k    m    w    _    _    
-  bspc a    n    i    s    c    _    _    d    h    t    r    o    q 
-  _    _    x    y    f    v    _    _    b    p    g    z    _
+  @qwe _    _    l    u    j    _    _    _    k    m    w    _    _
+  bspc a    n    i    s    c    _    _    d    h    t    r    o    q
+  j    j    x    y    f    v    _    _    b    p    g    z    k
   _    _    _    _    _    _    _    _    _    _    _    _    
   _    _    @ch            spc            e    @num _    
 )
 
 (deflayer char
-  _    <    `    %    \\   _    _    _    _    _    /    $    ~    > 
-  ^    [    {    \(   :    !    _    _    ?    ;    \)   }    ]    _ 
-  _    _    _    _    @    |    _    _    &    #    _    _    _    
+  _    <    `    %    \\   _    _    _    _    _    /    $    ~    >
+  ^    [    {    \(   :    !    _    _    ?    ;    \)   }    ]    _
+  \\   \\   _    <    @    |    _    _    &    #    >    _    /    
   _    _    _    _    _    _    _    _    _    _    _    _    
   _    _    XX             _              @shf ret  _    
 )
 
 (deflayer numbers 
-  _    _    _    3    4    5    _    _    _    6    7    8    _    _ 
-  _    '    2    1    .    /    _    _    *    ,    0    9    "    _   
+  _    _    _    3    4    5    _    _    _    6    7    8    _    _
+  _    '    2    1    .    /    _    _    *    ,    0    9    "    _
   _    _    _    _    =    -    _    _    +    \_   _    _    _    
   _    _    _    _    _    _    _    _    _    _    _    _    
   _    _    ret            spc            _    XX   _    
 )
 
 (deflayer switcher ;; welcome to the terminal
-  @isr @ani _    _    _    _    _    _    _    _    _    _    _    _ 
-  _    _    _    _    _    _    _    _    _    _    _    _    _    _ 
+  @isr @ani _    _    _    _    _    _    _    _    _    _    _    _
+  _    _    _    _    _    _    _    _    _    _    _    _    _    _
   _    _    _    _    _    _    _    _    _    _    _    _    _    
   _    _    _    _    _    _    _    _    _    _    _    _    
   _    _    _              _              _    _    _    
 )
 
 (deflayer template ;; empty layer no touchie
-  _    _    _    _    _    _    _    _    _    _    _    _    _    _ 
-  _    _    _    _    _    _    _    _    _    _    _    _    _    _ 
+  _    _    _    _    _    _    _    _    _    _    _    _    _    _
+  _    _    _    _    _    _    _    _    _    _    _    _    _    _
   _    _    _    _    _    _    _    _    _    _    _    _    _    
   _    _    _    _    _    _    _    _    _    _    _    _    
   _    _    _              _              _    _    _    
